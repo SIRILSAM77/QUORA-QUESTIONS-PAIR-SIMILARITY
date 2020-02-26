@@ -31,5 +31,5 @@ Binary Confusion Matrix
 How to run the file
 First download the data from Data Source then run the file: QuoraQuesPairSim.ipynb.
 
-Authors
+Author:
 Siril Sam
